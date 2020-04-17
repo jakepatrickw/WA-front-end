@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-const App = () => <div>Hello, Assassin!</div>;
+const App = () => <div>Hello, Assassinz!</div>;
 
 const appRoot = document.getElementById("root");
 
